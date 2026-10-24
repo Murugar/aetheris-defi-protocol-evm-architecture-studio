@@ -1,0 +1,6 @@
+{
+  "name": "Aetheris DeFi Protocol & EVM Architecture Studio",
+  "description": "Full-stack DeFi protocol suite featuring core Solidity smart contracts, Foundry test engine, AMM DEX, liquidity pools, lending market, ERC4626 vaults, and token flow architecture.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
